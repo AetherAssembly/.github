@@ -1,8 +1,6 @@
 # 🧬 AetherAssembly
 
-<p align="center">
-  <img src="https://github.com/AetherAssembly/.github/assets/logo.png" width="200" alt="AetherAssembly Logo">
-</p>
+![AetherAssembly Logo](https://github.com/AetherAssembly/.github/assets/logo.png)
 
 Welcome to **AetherAssembly** a modular tech collective where precision meets adaptability. We build secure systems, efficient tooling, and globally compatible solutions across software, and infrastructure Our work is driven by curiosity, clean design, and a shared commitment to future-proof engineering.
 
