@@ -24,7 +24,7 @@ Experimental developer and creative engineer. Rowan explores unconventional solu
 > *"We are made of star-stuff. We are a way for the cosmos to know itself." — Carl Sagan*
 
 ### 🧭 Wyatt [NovaFrame52](https://github.com/NovaFrame52)
-Strategic planner and technical integrator. Wyatt focuses on long-term vision, workflow optimization, and cross-domain compatibility. With a background in network security and aviation, Wyatt ensures our systems are both robust and adaptable.  
+Founder, Lead Strategic Planner and Technical Integrator. Wyatt focuses on long-term vision, workflow optimization, and cross-domain compatibility. With a background in network security and aviation, Wyatt ensures our systems are both robust and adaptable.  
 > *"The mind is not a vessel to be filled, but a fire to be kindled." — Plutarch*
 
 ### 🧩 Aster [Aster1630](https://github.com/Aster1630)
