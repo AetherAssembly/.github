@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/AetherAssembly/.github/blob/main/SECURITY.md
+    about: Please report security issues via our security policy, not as public issues.
+  - name: General question or discussion
+    url: mailto:support@aetherassembly.org
+    about: Questions and general discussion can be sent to our support email.
