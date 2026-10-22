@@ -4,8 +4,7 @@ Privacy-first, offline-capable open source tools. Built by people, not by growth
 
 ## Projects
 
-- **[Before It's Gone](https://github.com/AetherAssembly/Before-Its-Gone)** — local-first food expiry tracker for Linux, macOS, and Windows
-- **[MindTab](https://github.com/AetherAssembly/MindTab)** — browser extension for feed cleaning, writing assistance, and flashcards
+- **[Driftleaf](https://github.com/AetherAssembly/Driftleaf)** — local-first, encrypted-by-default notes app for Linux, macOS, and Windows
 - **[aether-packages](https://github.com/AetherAssembly/aether-packages)** — shared packages powering AetherAssembly apps
 
 ## Support the project
